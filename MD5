@@ -1,4 +1,4 @@
-1f4a31f6a6f82ea64c5a0bf936ed9e57 *DESCRIPTION
+37548c942a51338b9c914945e0609d47 *DESCRIPTION
 e7889571d8d4c4cbb591d60153190a53 *NAMESPACE
 64c7e03e8cf104db09fae7215a5a0375 *R/RcppExports.R
 94adcb811f38e815c344c8af98e3cd5b *R/bggum-package.R
@@ -21,7 +21,7 @@ c99d7d14fb742c8b27b855cc0b422087 *build/vignette.rds
 61a43a5ea9c415ae991efc0ec605cff5 *man/bggum.Rd
 7e4c2fb843b913b04ea7d7e021ad8d38 *man/color_palettes.Rd
 ff00abbaa0837be292ad27d52e135b31 *man/ggumMC3.Rd
-55aa3f518f872cc3dff2b572dd0fd35e *man/ggumMCMC.Rd
+eca8799e41a1eec92e66c893cac21892 *man/ggumMCMC.Rd
 44893cee66553d1b9e3460209bf40dca *man/ggumProbability.Rd
 5c3616fd2b684df65de9a31e96cf6eb1 *man/ggum_simulation.Rd
 7e9b1d77dd90380dd3c27b3537c62849 *man/icc.Rd
@@ -42,7 +42,7 @@ cfb1227e0cab46d186da4d1e58d52763 *src/RcppExports.cpp
 9441fab28e6d4f88a0b2cdc3641faa24 *src/tune_temps.cpp
 cebde1eb639309b8d9e12cc631aa59cb *src/update.cpp
 a63f760f235279b6f2ef0841dd99b1f6 *tests/test-all.R
-559be550d6f97896cb36b0c9f131e37f *tests/testthat/test_ggum_simulation.R
+82bd431fecee41022f4a78d727a5ecee *tests/testthat/test_ggum_simulation.R
 aa6b8ae2e24d337422990d86796d15a1 *tests/testthat/test_plotting_sanity_checks.R
 334d37e6b5fcbe87446d3fdb82820cb4 *tests/testthat/test_probability.R
 b88fbb80c34ac9876d8febc9ac6418ea *tests/testthat/test_sampling_and_summary.R

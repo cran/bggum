@@ -1,8 +1,8 @@
 Package: bggum
 Title: Bayesian Estimation of Generalized Graded Unfolding Model
         Parameters
-Version: 1.0.1
-Date: 2019-12-27
+Version: 1.0.2
+Date: 2020-01-18
 Authors@R: c(person(given = "JBrandon",
                     family = "Duck-Mayr",
                     email = "j.duckmayr@gmail.com",
@@ -37,11 +37,11 @@ Encoding: UTF-8
 RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2020-01-08 03:13:21 UTC; jb
+Packaged: 2020-01-18 23:31:56 UTC; jb
 Author: JBrandon Duck-Mayr [aut, cre] (<https://orcid.org/0000-0002-2231-1294>),
   Jacob Montgomery [aut],
   Patrick Silva [ctb],
   Luwei Ying [ctb]
 Maintainer: JBrandon Duck-Mayr <j.duckmayr@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-01-09 10:50:03 UTC
+Date/Publication: 2020-01-19 08:40:02 UTC
